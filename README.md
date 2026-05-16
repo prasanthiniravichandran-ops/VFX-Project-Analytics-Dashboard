@@ -62,9 +62,14 @@ This project focuses on transforming raw operational data into meaningful busine
 ✅ Business-Oriented Visual Analytics
 
 ---
+
 ## 🎥 Interactive Dashboard Demo
 
-[Click Here to Watch Dashboard Demo](https://github.com/prasanthiniravichandran-ops/VFX-Project-Business-Analytics-Dashboard/blob/main/VFX%20Project_PowerBi.mp4)
+📥 GitHub may not preview the video directly in browser due to file size limitations.
+
+👉 Please click the video file and download it for the best viewing experience.
+
+[Download & Watch Dashboard Demo](https://github.com/prasanthiniravichandran-ops/VFX-Project-Business-Analytics-Dashboard/blob/main/VFX%20Project_PowerBi.mp4)
 
 # 📷 Dashboard Preview
 
