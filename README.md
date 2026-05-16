@@ -1,4 +1,4 @@
-# VFX-Project-Business-Analytics-Dashboard
+# PowerBi-VFX-Project-Business-Analytics-Dashboard
 
 
 ## 📌 Project Overview
